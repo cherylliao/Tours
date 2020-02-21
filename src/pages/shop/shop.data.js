@@ -6,57 +6,33 @@ const SHOP_DATA = [
     items: [
       {
         id: 1,
-        name: 'Brown Brim',
-        imageUrl: 'https://i.ibb.co/ZYW3VTp/brown-brim.png',
-        price: 25
+        name: 'Machu Picchu',
+        imageUrl: 'https://i.ibb.co/4FMvrBF/Machu.jpg',
+        price: 35
       },
       {
         id: 2,
-        name: 'Blue Beanie',
-        imageUrl: 'https://i.ibb.co/ypkgK0X/blue-beanie.png',
-        price: 18
+        name: 'Amazon',
+        imageUrl: 'https://i.ibb.co/L8TzDyn/amazon.jpg',
+        price: 38
       },
       {
         id: 3,
-        name: 'Brown Cowboy',
-        imageUrl: 'https://i.ibb.co/QdJwgmp/brown-cowboy.png',
+        name: 'Rainbow Mountain',
+        imageUrl: 'https://i.ibb.co/c2j82zs/rainbow.jpg',
         price: 35
       },
       {
         id: 4,
-        name: 'Grey Brim',
-        imageUrl: 'https://i.ibb.co/RjBLWxB/grey-brim.png',
+        name: 'Inca Trails',
+        imageUrl: 'https://i.ibb.co/WP7Qfqb/Inca.jpg',
         price: 25
       },
       {
         id: 5,
-        name: 'Green Beanie',
-        imageUrl: 'https://i.ibb.co/YTjW3vF/green-beanie.png',
-        price: 18
-      },
-      {
-        id: 6,
-        name: 'Palm Tree Cap',
-        imageUrl: 'https://i.ibb.co/rKBDvJX/palm-tree-cap.png',
-        price: 14
-      },
-      {
-        id: 7,
-        name: 'Red Beanie',
-        imageUrl: 'https://i.ibb.co/bLB646Z/red-beanie.png',
-        price: 18
-      },
-      {
-        id: 8,
-        name: 'Wolf Cap',
-        imageUrl: 'https://i.ibb.co/1f2nWMM/wolf-cap.png',
-        price: 14
-      },
-      {
-        id: 9,
-        name: 'Blue Snapback',
-        imageUrl: 'https://i.ibb.co/X2VJP2W/blue-snapback.png',
-        price: 16
+        name: 'sacred valley',
+        imageUrl: 'https://i.ibb.co/pZ3GskN/valley.jpg',
+        price: 37
       }
     ]
   },
@@ -66,52 +42,16 @@ const SHOP_DATA = [
     routeName: 'sneakers',
     items: [
       {
-        id: 10,
-        name: 'Adidas NMD',
-        imageUrl: 'https://i.ibb.co/0s3pdnc/adidas-nmd.png',
+        id: 1,
+        name: 'crystals',
+        imageUrl: 'https://i.ibb.co/hgf8175/artifaces.jpg',
         price: 220
       },
       {
-        id: 11,
-        name: 'Adidas Yeezy',
-        imageUrl: 'https://i.ibb.co/dJbG1cT/yeezy.png',
+        id: 2,
+        name: 'flute',
+        imageUrl: 'https://i.ibb.co/PwxwBvg/flute.jpg',
         price: 280
-      },
-      {
-        id: 12,
-        name: 'Black Converse',
-        imageUrl: 'https://i.ibb.co/bPmVXyP/black-converse.png',
-        price: 110
-      },
-      {
-        id: 13,
-        name: 'Nike White AirForce',
-        imageUrl: 'https://i.ibb.co/1RcFPk0/white-nike-high-tops.png',
-        price: 160
-      },
-      {
-        id: 14,
-        name: 'Nike Red High Tops',
-        imageUrl: 'https://i.ibb.co/QcvzydB/nikes-red.png',
-        price: 160
-      },
-      {
-        id: 15,
-        name: 'Nike Brown High Tops',
-        imageUrl: 'https://i.ibb.co/fMTV342/nike-brown.png',
-        price: 160
-      },
-      {
-        id: 16,
-        name: 'Air Jordan Limited',
-        imageUrl: 'https://i.ibb.co/w4k6Ws9/nike-funky.png',
-        price: 190
-      },
-      {
-        id: 17,
-        name: 'Timberlands',
-        imageUrl: 'https://i.ibb.co/Mhh6wBg/timberlands.png',
-        price: 200
       }
     ]
   }
