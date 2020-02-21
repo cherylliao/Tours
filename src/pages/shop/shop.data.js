@@ -42,13 +42,13 @@ const SHOP_DATA = [
     routeName: 'sneakers',
     items: [
       {
-        id: 1,
+        id: 10,
         name: 'crystals',
         imageUrl: 'https://i.ibb.co/hgf8175/artifaces.jpg',
         price: 220
       },
       {
-        id: 2,
+        id: 11,
         name: 'flute',
         imageUrl: 'https://i.ibb.co/PwxwBvg/flute.jpg',
         price: 280
