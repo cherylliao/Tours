@@ -2,12 +2,13 @@ const SHOP_DATA = [
   {
     id: 1,
     title: 'Tours',
-    routeName: 'hats',
+    routeName: 'tours',
     items: [
       {
         id: 1,
         name: 'Machu Picchu',
         imageUrl: 'https://i.ibb.co/4FMvrBF/Machu.jpg',
+        linkUrl: 'tours',
         price: 35
       },
       {
